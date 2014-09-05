@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+     <modules>
+        <PontoCommerce_BannerImages>
+            <active>true</active>
+            <codePool>local</codePool>
+        </PontoCommerce_BannerImages>
+     </modules>
+</config>
